@@ -15,6 +15,7 @@ This repository contains a Python script for generating random and similar passw
    cd password_generator
 
 2. Run the script:
+   ```bash
    python3 password_generator.py
 
     
